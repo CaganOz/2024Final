@@ -30,7 +30,7 @@ CSV Data Files
     courses.csv: Stores course data (course number, course title, instructor username).
     enrollment.csv (optional): Can store student enrollments in courses (if used in future updates).
 
-Notes for Graders
+Notes for Viewers
 
     Running the Program: To use the system, start by running main.py. This file contains all of the functionalities needed for login and managing the data.
     Login:
